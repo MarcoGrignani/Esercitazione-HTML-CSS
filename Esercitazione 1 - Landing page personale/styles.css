@@ -46,27 +46,28 @@ main {
 h1 {
   color: white;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 h2 {
   color: #afbaad;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 h3 {
   color: white;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 h4 {
-  color: #afbaad;
+  color: #4eb8ce;
   font-weight: normal;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 img {
   border-radius: 50%;
 }
+
